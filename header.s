@@ -12,5 +12,5 @@
         jmp     PR_WRITTEN_BY
 .endif
 .ifdef EATER
-        jmp PR_WRITTEN_BY
+        jmp     PR_WRITTEN_BY
 .endif
